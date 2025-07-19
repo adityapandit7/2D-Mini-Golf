@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: a0259a85f77aaba4591e5e39b7ea94fa
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MiniGolf_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2fa5a559a1611479e2a8e37e9a5ffb
+      internalID: 263073207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGolf_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9d4a5510dce2a4ab3104f20380db2f
+      internalID: 101008362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGolf_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3.0337067, y: -8}
+        - {x: 2.9832916, y: -8}
+        - {x: 3, y: -0.016712189}
+        - {x: -3, y: -0.016712189}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb72bcc9216702b46a1a1d01ff5e59b2
+      internalID: -1884234384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGolf_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2.9840012, y: -8}
+        - {x: 3.0201302, y: -8}
+        - {x: 3.0343285, y: -2.9990273}
+        - {x: 8, y: -2.9968681}
+        - {x: 8, y: 3.0159988}
+        - {x: -2.9680023, y: 3.0320015}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d65a271ac8d784bbbdf3b61fa40796
+      internalID: 237104697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGolf_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -3}
+        - {x: -2.9990082, y: -2.9929962}
+        - {x: -3.0159988, y: -8}
+        - {x: 3.0159912, y: -8}
+        - {x: 3.0159988, y: 3.0160027}
+        - {x: -8, y: 3.0000038}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01f2f404110d234087a997193995895
+      internalID: 2031265867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGolf_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e48fbc37c7b5347914662ab5a0c8d6
+      internalID: 1218290334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGolf_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973a44516223f8145b59fca4df37f3fa
+      internalID: 975129495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGolf_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3.0185928, y: -8}
+        - {x: 2.9681702, y: 8}
+        - {x: -3.0841255, y: 8}
+        - {x: -3.0337067, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224e167aa5acb7d409e4f3837c09edf7
+      internalID: 1921016823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGolf_8
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3.040104, y: 8}
+        - {x: -3.0233307, y: -3.0401}
+        - {x: 8, y: -2.9701042}
+        - {x: 8, y: 2.9934387}
+        - {x: 2.9819412, y: 2.9950867}
+        - {x: 2.9934387, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4a646c65080aa46ab7eb0b5da0ce78
+      internalID: -1239562301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGolf_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3.0401, y: 8}
+        - {x: -3.0468292, y: 2.9535217}
+        - {x: -8, y: 3.040104}
+        - {x: -8, y: -3.0167694}
+        - {x: 3.0634308, y: -2.9766655}
+        - {x: 3.0401, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c050c7f8ade4e6543862c47ac446db37
+      internalID: 525541221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGolf_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3.056944, y: 8}
+        - {x: -3.0331764, y: 2.9718246}
+        - {x: -8, y: 3.016039}
+        - {x: -8, y: -3.016035}
+        - {x: -3.0092573, y: -3.0261116}
+        - {x: -2.9955854, y: -8}
+        - {x: 3.0364914, y: -8}
+        - {x: 2.9894152, y: -2.9752922}
+        - {x: 8, y: -2.9955845}
+        - {x: 8, y: 3.014225}
+        - {x: 3.0181627, y: 3.0415325}
+        - {x: 2.9955835, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8831c429fac1f5c4c8b58cac91b9a167
+      internalID: -738302670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGolf_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2.97513, y: 8}
+        - {x: -3.0600796, y: 3.0267334}
+        - {x: -8, y: 2.97513}
+        - {x: -8, y: -2.9955845}
+        - {x: -3.0127277, y: -2.9820461}
+        - {x: -2.975132, y: -8}
+        - {x: 3.016037, y: -8}
+        - {x: 3.005659, y: -2.9981117}
+        - {x: 8, y: -3.0364895}
+        - {x: 8, y: 2.9534912}
+        - {x: 2.9778004, y: 2.9556198}
+        - {x: 3.0183678, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76899f9ec45222b479d8399939440ff6
+      internalID: 808624511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGolf_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3.0886765, y: 8}
+        - {x: -3.0289574, y: 0.027160645}
+        - {x: 3.0289574, y: 0.027160645}
+        - {x: 3.030758, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e17da038b346774bafbc5d9fa9eb47d
+      internalID: -27544034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGolf_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3.0370483, y: -8}
+        - {x: 3.0431519, y: -8}
+        - {x: 3.0359154, y: -2.982462}
+        - {x: 8, y: -2.979515}
+        - {x: 8, y: 2.967268}
+        - {x: -2.9944725, y: 3.0254002}
+      tessellationDetail: 0
+      bones: []
+      spriteID: edece8f03a35137488483ef3f62c059a
+      internalID: 1456847994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGolf_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -2.9839993}
+        - {x: -3.016777, y: -2.9752274}
+        - {x: -2.9840012, y: -8}
+        - {x: 3.0159988, y: -8}
+        - {x: 3, y: 3.0159988}
+        - {x: -8, y: 3.0159988}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72fed987d8bed848aa6f4b75bd3a673
+      internalID: 1840640702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGolf_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3.03658, y: 3.0480003}
+        - {x: -2.9840002, y: -3}
+        - {x: 3.0303564, y: -3.0306602}
+        - {x: 3.0121431, y: 2.9910984}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4932a23c7addc4daa0f0fc57fb7da9
+      internalID: 82147209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGolf_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -0.048000336, y: 3.015998}
+        - {x: -0.01599884, y: -3}
+        - {x: 8, y: -3}
+        - {x: 8, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbc24d90d7b75549b322e8acbf529a8
+      internalID: 1857408677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGolf_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -2.9839988}
+        - {x: 8, y: -2.9839988}
+        - {x: 8, y: 3.0480003}
+        - {x: -8, y: 3.0319986}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db3b3f4abbe9ee44a5499b1fb0dd3dd
+      internalID: -2052976272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MiniGolf_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 3}
+        - {x: -8, y: -3}
+        - {x: 0.03199768, y: -2.9839993}
+        - {x: 0.016002655, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d080675edd26f4a4080fff8c0fc9e21e
+      internalID: -658174620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MiniGolf_0: 263073207
+      MiniGolf_1: 101008362
+      MiniGolf_10: -738302670
+      MiniGolf_11: 808624511
+      MiniGolf_12: -27544034
+      MiniGolf_13: 1456847994
+      MiniGolf_14: 1840640702
+      MiniGolf_15: 82147209
+      MiniGolf_16: 1857408677
+      MiniGolf_17: -2052976272
+      MiniGolf_18: -658174620
+      MiniGolf_2: -1884234384
+      MiniGolf_3: 237104697
+      MiniGolf_4: 2031265867
+      MiniGolf_5: 1218290334
+      MiniGolf_6: 975129495
+      MiniGolf_7: 1921016823
+      MiniGolf_8: -1239562301
+      MiniGolf_9: 525541221
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
